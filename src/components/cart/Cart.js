@@ -12,10 +12,9 @@ const Cart = (props) => {
     const Totalsalary = carts.reduce((prev, current) => prev + current.sallary, 0)
     return (
         <div className="cart-container" >
-            <h3>hi</h3>
             <h3>Teacher added : {length} </h3>
             <h4>Total Cost : $ {Totalsalary} </h4>
-            <h5 className='name' >Names:{name}</h5>
+            <h5 className='name' >{name}</h5>
         </div>
     );
 };
