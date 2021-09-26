@@ -1,0 +1,24 @@
+.product-cart{
+ width: 300px;
+ border-radius: 10px;
+ box-shadow: 1px 1px 2px black;
+ text-align: center;
+ padding-top: 7px;
+
+}
+
+.product-cart img {
+    width: 150px;
+    border-radius: 100px;
+}
+
+.btn{
+    background-color: black;
+     color: white;
+     width: 140px;
+     padding: 12px;
+     text-align: center;
+     border-radius: 10px;
+     margin-bottom: 7px;
+
+}

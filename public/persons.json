@@ -2,70 +2,90 @@
     {
         "name": "Ayman Sadik",
         "sallary": 5000,
+        "age": 28,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "math",
         "img": "https://yt3.ggpht.com/ytc/AKedOLRDdAd3EsOozEFNrsPuPDz6SHb-qRTLVFED7BM_Wxs=s900-c-k-c0x00ffffff-no-rj"
     },
     {
         "name": "Sumit Saha",
         "sallary": 6000,
+        "age": 29,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "javascript",
         "img": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
     },
     {
         "name": "Sahriar Subin",
         "sallary": 100000,
+        "age": 35,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "c++",
         "img": "https://avatars.githubusercontent.com/u/1166111?v=4"
     },
     {
         "name": "shakib",
         "sallary": 5000,
+        "age": 31,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Grammer",
         "img": "https://1.bp.blogspot.com/-EItjffKvK_c/XgYV7kxr0hI/AAAAAAAAAik/vRlal-_pLQAm7BYF9G1NT-dWaZNVXH19QCPcBGAYYCw/s1600/Sakib-Bin-Rashid.jpg"
     },
     {
         "name": "Solaiman shokon",
         "sallary": 8000,
+        "age": 41,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Digital Marketing",
-        "img": "https://smallbiography.com/wp-content/uploads/2021/06/solaiman-shukhon.jpg"
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQH9iMsmifpfAw/profile-displayphoto-shrink_200_200/0/1571823821873?e=1634169600&v=beta&t=qcJ2zbGd61eDW6SMJKjYlbYcb_aZM2DWs5Pqfw6G82c"
     },
     {
         "name": "Jhankar Mahbub",
         "sallary": 200000,
+        "age": 14,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Programing",
-        "img": "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg"
+        "img": "https://yt3.ggpht.com/ytc/AKedOLTBLMf4tq8iRjYjbmOPzLlQbD31_D2E4AOSmFPGzw=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-        "name": "Munzreen",
+        "name": "Munzreen Sahid",
         "sallary": 1200000,
+        "age": 27,
         "genter": "female",
+        "country": "Bangladesh",
         "subject": "English",
-        "img": "https://allpedia.org/wp-content/uploads/2020/06/munzereen.png"
+        "img": "https://www.biramhin.com/wp-content/uploads/2021/06/Munzereen-shahid-photo.jpg"
     },
     {
         "name": "Anisul Islam",
         "sallary": 15000000,
+        "age": 35,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Programming",
         "img": "https://pbs.twimg.com/profile_images/1313143643398721537/29J0U2P_.jpg"
     },
     {
         "name": "Mizanur Rahman",
         "sallary": 2000000,
+        "age": 32,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Islami Scholer",
-        "img": "https://i2.wp.com/insiderion.com/wp-content/uploads/2020/01/Mizanur-Rahman-Azhari-Photo.jpg?resize=618%2C386&ssl=1"
+        "img": "https://pbs.twimg.com/profile_images/1339920183159230467/wHDa21Gw_400x400.jpg"
     },
     {
         "name": "Sadman sadik",
         "sallary": 2000,
+        "age": 25,
         "genter": "male",
+        "country": "Bangladesh",
         "subject": "Markating",
         "img": "https://yt3.ggpht.com/ytc/AKedOLQUc5eUblAmd5OaHakNhtr2L9BSCyN_2duY1tcbIw=s900-c-k-c0x00ffffff-no-rj"
     }
