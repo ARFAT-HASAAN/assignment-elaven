@@ -1,6 +1,7 @@
 .cart-container h3{
     font-size: 1.8rem;
     padding-bottom: 5px;
+    color: white;
     border-bottom: 1px solid white;
 }
 .cart-container h4{
@@ -8,3 +9,4 @@
     padding-bottom: 5px;
     border-bottom: 1px solid white;
 }
+.name{width: 130px;}

@@ -11,7 +11,7 @@ const Product = (props) => {
             <h4>Name : {name}</h4>
             <h4>Age : {age}</h4>
             <h4>Gender : {gender}</h4>
-            <h4>Salary : {sallary}</h4>
+            <h4>Salary : $ {sallary}</h4>
             <h4>Nationality : {country}</h4>
             <button onClick={() => props.eventHanler(props.product)} className='btn'>Add to cart</button>
         </div>
