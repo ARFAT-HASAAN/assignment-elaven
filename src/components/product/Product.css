@@ -4,6 +4,8 @@
  box-shadow: 1px 1px 2px black;
  text-align: center;
  padding-top: 7px;
+ background-color: black;
+ color: white;
 
 }
 
@@ -13,12 +15,13 @@
 }
 
 .btn{
-    background-color: black;
+    background-color: rgb(124, 148, 135);
      color: white;
      width: 140px;
      padding: 12px;
      text-align: center;
      border-radius: 10px;
      margin-bottom: 7px;
+     font-weight: 700;
 
 }
