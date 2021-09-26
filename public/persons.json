@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ayman Sadik",
+        "sallary": 5000,
+        "genter": "male",
+        "subject": "math",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRDdAd3EsOozEFNrsPuPDz6SHb-qRTLVFED7BM_Wxs=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Sumit Saha",
+        "sallary": 6000,
+        "genter": "male",
+        "subject": "javascript",
+        "img": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
+    },
+    {
+        "name": "Sahriar Subin",
+        "sallary": 100000,
+        "genter": "male",
+        "subject": "c++",
+        "img": "https://avatars.githubusercontent.com/u/1166111?v=4"
+    },
+    {
+        "name": "shakib",
+        "sallary": 5000,
+        "genter": "male",
+        "subject": "Grammer",
+        "img": "https://1.bp.blogspot.com/-EItjffKvK_c/XgYV7kxr0hI/AAAAAAAAAik/vRlal-_pLQAm7BYF9G1NT-dWaZNVXH19QCPcBGAYYCw/s1600/Sakib-Bin-Rashid.jpg"
+    },
+    {
+        "name": "Solaiman shokon",
+        "sallary": 8000,
+        "genter": "male",
+        "subject": "Digital Marketing",
+        "img": "https://smallbiography.com/wp-content/uploads/2021/06/solaiman-shukhon.jpg"
+    },
+    {
+        "name": "Jhankar Mahbub",
+        "sallary": 200000,
+        "genter": "male",
+        "subject": "Programing",
+        "img": "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg"
+    },
+    {
+        "name": "Munzreen",
+        "sallary": 1200000,
+        "genter": "female",
+        "subject": "English",
+        "img": "https://allpedia.org/wp-content/uploads/2020/06/munzereen.png"
+    },
+    {
+        "name": "Anisul Islam",
+        "sallary": 15000000,
+        "genter": "male",
+        "subject": "Programming",
+        "img": "https://pbs.twimg.com/profile_images/1313143643398721537/29J0U2P_.jpg"
+    },
+    {
+        "name": "Mizanur Rahman",
+        "sallary": 2000000,
+        "genter": "male",
+        "subject": "Islami Scholer",
+        "img": "https://i2.wp.com/insiderion.com/wp-content/uploads/2020/01/Mizanur-Rahman-Azhari-Photo.jpg?resize=618%2C386&ssl=1"
+    },
+    {
+        "name": "Sadman sadik",
+        "sallary": 2000,
+        "genter": "male",
+        "subject": "Markating",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLQUc5eUblAmd5OaHakNhtr2L9BSCyN_2duY1tcbIw=s900-c-k-c0x00ffffff-no-rj"
+    }
+]
