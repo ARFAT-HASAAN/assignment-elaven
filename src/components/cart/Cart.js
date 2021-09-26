@@ -1,11 +1,16 @@
 import React from 'react';
 import './Cart.css'
 
-const Cart = () => {
+const Cart = (props) => {
+    // console.log(props.cart)
+    const length = props.cart.length
+    const { cart } = props
+
+    const Totalsalary = cart.reduce((prev, current) => prev + current.sallary, 0)
     return (
         <div className="cart-container" >
-            <h3>Teacher added : </h3>
-            <h4>Total Cost : </h4>
+            <h3>Teacher added :{length} </h3>
+            <h4>Total Cost :{Totalsalary} </h4>
         </div>
     );
 };

@@ -2,8 +2,9 @@ import React from 'react';
 import './Product.css'
 
 const Product = (props) => {
-    console.log(props.product)
+    // console.log(props)
     const { name, age, gender, sallary, img, country } = props.product
+    // console.log(props.product)
     return (
         <div className='product-cart'>
             <img src={img} alt="" />
@@ -12,7 +13,7 @@ const Product = (props) => {
             <h4>Gender : {gender}</h4>
             <h4>Salary : {sallary}</h4>
             <h4>Nationality : {country}</h4>
-            <button className='btn'>Add to cart</button>
+            <button onClick={() => props.eventHanler(props.product)} className='btn'>Add to cart</button>
         </div>
     );
 };
